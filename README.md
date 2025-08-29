@@ -9,7 +9,7 @@ This repository contains multiple assignments, each organized in its own folder.
 - [Assignment 02](./Assignment%202) → Task 1 & Task 2
 - [Assignment 03](./Assignment%203) → Task 1 & Task 2
 - [Assignment 04](./Assignment%204) → Task 1 & Task 2
-- [Assignment 06](./Assignment%206) → Task 1 & Task 2
+- [Assignment 05](./Assignment%206) → Task 1 & Task 2
 ---
 
 ## 🚀 How to Run
